@@ -1,0 +1,14 @@
+.footer_details a
+{
+    text-decoration: none;
+    font-family: 'Philosopher', sans-serif;
+    color: white;
+}
+.footer_details p
+{
+    
+    font-family: 'Philosopher', sans-serif;
+    color: white;
+    font-size: larger;
+}
+

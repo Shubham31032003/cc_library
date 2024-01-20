@@ -1,0 +1,37 @@
+
+.navbar-brand{
+    font-family: 'Kotta One', serif;
+    font-size: x-large;
+    padding: 0px;
+    border-bottom: 2px solid orangered;
+    margin-bottom: 5px;
+    
+}
+.navbar-brand img
+{
+    height: 40px;
+    width: 40px;
+    margin-right: 12px;
+}
+nav li
+{
+    font-family: 'Playfair Display SC', serif;
+    
+    
+}
+.offcanvas-title{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+@media (max-width:768px)
+{
+    nav li
+    {
+        font-size: x-large;
+        margin-bottom: 10px;
+        border-bottom: 1px solid white;
+        
+        
+    }
+}

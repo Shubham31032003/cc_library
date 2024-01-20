@@ -1,0 +1,16 @@
+.message_from_founder h1{
+    font-family: 'Cinzel', serif;
+    font-weight: bolder;
+    background: linear-gradient(45deg, #FFA500, #888686);
+    background-clip: text;
+    color: transparent;
+}
+.message_from_founder p{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 21px;  
+}
+.embed-responsive.embed-responsive-16by9 iframe
+{
+    border-radius: 10px;
+}
+   

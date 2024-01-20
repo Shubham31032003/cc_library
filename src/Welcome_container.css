@@ -1,0 +1,51 @@
+.welcome h2
+{
+    font-family: 'Cinzel', serif;
+    font-weight: bolder;
+    background: linear-gradient(45deg, #FFA500, #888686);
+    background-clip: text;
+    color: transparent;
+    
+}
+.welcome p
+{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 21px;   
+}
+.carousel-item img {
+    filter: blur(1.5px);
+    border-radius: 5px;
+    
+}
+
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+  }
+  .carousel-caption h5
+{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 35px; 
+    color:white;
+    text-shadow: 5px 5px 5px black;
+    margin: 2px 2px;
+}
+
+  
+  @media (max-width: 768px) {
+    .carousel-caption h5 {
+      font-family: 'Philosopher', sans-serif;
+      font-size: 20px;
+      color:white;
+      text-shadow: 5px 5px 5px black;
+      margin: 2px 2px;
+      
+      
+    }
+  }
+  
